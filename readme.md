@@ -19,3 +19,6 @@ During the demo, I had most of my functionality, but the problem was that the fr
 <br>
 https://www.youtube.com/watch?v=1_aFdQdajTE&feature=youtu.be
 <br>
+
+# To play the game, visit: 
+https://harsha-ravuri.github.io/Frogger/
