@@ -1,11 +1,7 @@
 # Name<br>Harsha(Sreeharsha) Ravuri
 <br>
 <br>
-# Unity ID<br>sravuri
 
-# Class<br>CSC 461
-<br>
-<br>
 # Description<br>
 This is my version of the famous game frogger. If you play carefully, you can jump on the truck, or you get hit by it and die. Be careful when jumping on the logs, they may be slippery. 
 <br>
